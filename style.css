@@ -236,5 +236,9 @@ header {
     width: 100%;
     text-align: justify;
     }
+    
+    footer {
+        font-size: .6rem;
+    }
 
 }
