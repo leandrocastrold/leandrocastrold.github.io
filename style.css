@@ -73,7 +73,7 @@ header h1 {
 
 .intro-container{
  display: flex;
- margin: 50px 0 100px 0;
+ margin: 50px 0 50px 0;
 }
 
 .intro-container img {
